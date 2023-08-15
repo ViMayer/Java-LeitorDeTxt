@@ -1,0 +1,22 @@
+Olá, eu sou o arquivo que vai ser lido no seu terminal!
+Por favor, trate-me com cuidado.
+Caso esteja procurando por instruções, procure o arquivo README.md,
+é lá onde elas se encontram.
+Sou somente um arquivo de texto, mas psso ser muito poderoso.
+Neste programa, por exemplo, posso criar um buraco!
+Não acredita? Pois veja com seus próprios olhos:
+
+
+
+
+
+Viu só?
+Sou tão poderoso, que posso pegar este mesmo buraco, e enchê-lo de água!
+~~^^~~ ~~~~~~^~~~  ^~~~~~~~~  ^~~~~~~  ~~~~~~~~~~^*´´
+ ~~~  ~~~~~~~~   ~~~~~~~^~~^~~~~  ~~~~~~^~  ~~~~~~~~^*´´
+    ^ ~~~~~~~~~~   ~~~~~~~~~~  ~~~~~~~~~   ~~~~~~~^*´´´
+ ~~~  ~~~~~~~~~~~~~~~~  ^ ~~~~~~~~~~~~  ~~~^  ~~~~^*´
+ ~~~^~~~ ^ ~~~~~~~~  ~~~  ~~~~~~~^~  ~~~~~~~~  ~~~~^~*´
+Espero que isto tenha lhe provado o quão poderoso eu sou! 8)
+Bem, estou acabando, e não tenho nada a acrescentar.
+Fim do leia-me.txt :)
