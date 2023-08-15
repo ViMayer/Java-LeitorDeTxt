@@ -2,7 +2,7 @@ Olá, eu sou o arquivo que vai ser lido no seu terminal!
 Por favor, trate-me com cuidado.
 Caso esteja procurando por instruções, procure o arquivo README.md,
 é lá onde elas se encontram.
-Sou somente um arquivo de texto, mas psso ser muito poderoso.
+Sou somente um arquivo de texto, mas posso ser muito poderoso.
 Neste programa, por exemplo, posso criar um buraco!
 Não acredita? Pois veja com seus próprios olhos:
 
